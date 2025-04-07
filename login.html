@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <link rel="stylesheet" href="Style1.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <h2 align ="left";>VroomVibes</h2>
+      <a href="index1.php">Home</a>
+      <a href="cars1.php">Cars</a>
+      <a href="Contact1.php">Contact</a>
+      <a href="login.html">Login</a>
+      <a href="Signup.html">Signup</a>
+    </nav>
+  </header>
+  <section class="login">
+    <h2>Login</h2>
+    <form id="login-form" action="login.php" method="POST">
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required placeholder="Enter your email">
+      
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password" required placeholder="Enter your password" minlength="6">
+      
+      <label for="remember-me">
+        <input type="checkbox" id="remember-me" name="remember-me"> Remember Me
+      </label>
+      
+      <button type="submit">Login</button>
+    </form>
+    <p>Don't have an account? <a href="Signup.html">Sign up</a></p>
+    <div id="login-message"></div>
+  </section>
+  <footer>
+    <p>&copy; 2025 VroomVibes. All rights reserved.</p>
+    <a href="Contact1.php">Contact Us</a>
+  </footer>
+  <button id="back-to-top" title="Go to top">↑</button>
+  
+</body>
+</html>

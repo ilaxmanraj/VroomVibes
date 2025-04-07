@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "name": "Lexus LX 600",
+      "image": "images/home/SUV.jpg",
+      "price": "$120/day",
+      "description": "Bhai Vehicle"
+    },
+    {
+      "id": 2,
+      "name": "Rolls Royce Cullinan",
+      "image": "images/home/rrc.jpg",
+      "price": "$150/day",
+      "description": "A sporty hatchback with a powerful engine, sleek design, and advanced features for an exhilarating driving experience."
+    },
+    {
+      "id": 3,
+      "name": "Porsche Cayenne",
+      "image": "images/home/porce.jpg",
+      "price": "$130/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 4,
+      "name": "Bentley Bentayga",
+      "image": "images/home/bently.webp",
+      "price": "$150/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 5,
+      "name": "Lambhorghini Urus",
+      "image": "images/home/urus.jpg",
+      "price": "$110/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 6,
+      "name": "Volvo XC90",
+      "image": "images/home/volvo.jpeg",
+      "price": "$100/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 7,
+      "name": "Mini Cooper",
+      "image": "images/home/hatchback.jpg",
+      "price": "$80/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 8,
+      "name": "VW Golf",
+      "image": "images/home/vologolf.avif",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 9,
+      "name": "Volvo XC60",
+      "image": "images/home/volvo60.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 10,
+      "name": "BMW X3",
+      "image": "images/home/bmwx3.jpg",
+      "price": "$70/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 11,
+      "name": "Audi Q3",
+      "image": "images/home/audiq3.jpg",
+      "price": "$70/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 12,
+      "name": "Cadillac Lyriq",
+      "image": "images/home/cydly.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 13,
+      "name": "Jeep Wrangler",
+      "image": "images/home/offroad.avif",
+      "price": "$90/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 14,
+      "name": "Force Gurks",
+      "image": "images/home/forcegurka.webp",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 15,
+      "name": "G Wagon",
+      "image": "images/home/gwagon.avif",
+      "price": "$140/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 16,
+      "name": "Ford Bronco",
+      "image": "images/home/bronco.avif",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 17,
+      "name": "Defender",
+      "image": "images/home/defender.avif",
+      "price": "$130/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 18,
+      "name": "Toyota Land Crusier",
+      "image": "images/home/landc.jpg",
+      "price": "$130/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 19,
+      "name": "Toyota Hilux",
+      "image": "images/home/pickup.webp",
+      "price": "$75/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 20,
+      "name": "GMC Siearra",
+      "image": "images/home/gmc.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 21,
+      "name": "Ford Raptor",
+      "image": "images/home/fordraptor.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 22,
+      "name": "VW Bus",
+      "image": "images/home/vwbus.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 23,
+      "name": "Spinter",
+      "image": "images/home/sprinter.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 24,
+      "name": "Ford Elkart",
+      "image": "images/home/fordbus.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 25,
+      "name": "BMW M series",
+      "image": "images/home/mseries.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 26,
+      "name": "Toyota Supra",
+      "image": "images/home/supra.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 27,
+      "name": "Mustang",
+      "image": "images/home/mustang.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 28,
+      "name": "Dodge Challenger",
+      "image": "images/home/dodge.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 29,
+      "name": "Lamborghini Aventador",
+      "image": "images/home/lambo.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    },
+    {
+      "id": 30,
+      "name": "VW Virtus GT",
+      "image": "images/home/vwgt.jpg",
+      "price": "$60/day",
+      "description": "A luxury hatchback with premium interiors, advanced safety features, and a smooth ride for a comfortable journey."
+    }
+]
